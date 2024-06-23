@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Lucy, and I am a Computer Science: Data Science and Information Systems undergraduate student. 
+
 I'm currently learning web development, hopefully with some new projects coming soon! 
